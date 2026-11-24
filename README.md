@@ -156,6 +156,12 @@ python yolov8_edge_inference.py
 
 ---
 
+## 📜 Academic Research Paper & IEEE Publication
+A complete IEEE Conference manuscript and literature survey is included in this repository:
+* **LaTeX Source (Overleaf Ready):** [`ieee_paper/sentinel_link_ieee_paper.tex`](ieee_paper/sentinel_link_ieee_paper.tex)
+* **Markdown Manuscript:** [`ieee_paper/IEEE_CONFERENCE_PAPER.md`](ieee_paper/IEEE_CONFERENCE_PAPER.md)
+* **Target Publication Tracks:** IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, or IEEE International Conference on Advanced Communications & Computing.
+
 ## 🤝 Collaboration Roadmap (How to Pair Program with Your Friend)
 
 This repository is split cleanly into two collaborative engineering tracks:
